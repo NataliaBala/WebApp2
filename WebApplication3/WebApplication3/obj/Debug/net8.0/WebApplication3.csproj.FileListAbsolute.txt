@@ -28,3 +28,4 @@ C:\Users\balan\OneDrive\Pulpit\Lab1\WebApplication3\WebApplication3\obj\Debug\ne
 C:\Users\balan\OneDrive\Pulpit\Lab1\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.pdb
 C:\Users\balan\OneDrive\Pulpit\Lab1\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.genruntimeconfig.cache
 C:\Users\balan\OneDrive\Pulpit\Lab1\WebApplication3\WebApplication3\obj\Debug\net8.0\ref\WebApplication3.dll
+C:\Users\balan\OneDrive\Pulpit\Lab1\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.sourcelink.json
